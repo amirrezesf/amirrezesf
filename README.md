@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://amirrezesf.github.io">🌐 Portfolio</a> •
-  <a href="https://github.com/amirrezesf/amirrezesf/blob/main/README_FA.md">🇮🇷 پارسی</a> •
+  <a href="https://github.com/amirrezesf/amirrezesf/blob/main/README_FA.md"> پارسی</a> •
   <a href="mailto:amirrezesf@gmail.com">✉️ Email</a>
 </p>
 
