@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+AmirReza+Esfandiyari;Full-Stack+Developer;Flutter+%7C+Django+%7C+React;Development+is+Art%2C+not+just+Code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9087e2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+AmirReza+Esfandiyari;Full-Stack+Developer;Flutter+%7C+Django+%7C+React;Development+is+Art%2C+not+just+Code." alt="Typing SVG" />
 </h1>
 
 <p align="center">
