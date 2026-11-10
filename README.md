@@ -21,14 +21,14 @@ Welcome to my personal GitHub space! I'm a **Full-Stack Developer** passionate a
 
 
 <p align="left">
-  <img src="./badge/Python-badge.svg" />
-  <img src="./badge/Django-badge.svg" />
-  <img src="./badge/Flutter-badge.svg" />
-  <img src="./badge/Dart-badge.svg" />
-  <img src="./badge/React-badge.svg" />
-  <img src="./badge/HTML5-badge.svg" />
-  <img src="./badge/CSS3-badge.svg" />
-  <img src="./badge/Docker-badge.svg" />
+  <img src="./badges/Python-badge.svg" />
+  <img src="./badges/Django-badge.svg" />
+  <img src="./badges/Flutter-badge.svg" />
+  <img src="./badges/Dart-badge.svg" />
+  <img src="./badges/React-badge.svg" />
+  <img src="./badges/HTML5-badge.svg" />
+  <img src="./badges/CSS3-badge.svg" />
+  <img src="./badges/Docker-badge.svg" />
 </p>
 
 
